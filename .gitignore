@@ -1,0 +1,14 @@
+*.pyc
+*.py~
+.DS_Store
+*.egg-info
+*.swp
+*.swo
+tags
+node_modules/
+__pycache__
+dist/
+.idea/
+.vscode/
+*~
+shaibinbukhari_addons/public/dist
